@@ -1,6 +1,7 @@
 # www.diyaccounting.co.uk
 
 Gateway static site for [DIY Accounting](https://www.diyaccounting.co.uk) — the main marketing and information site.
+Update 2026-05-12T22:28Z
 
 ## Architecture
 
